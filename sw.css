@@ -1,0 +1,22 @@
+#display{
+	font-size: 50px;
+	
+}
+.container{
+	margin:200px;
+	text-align: center;
+	
+}
+#startStop{
+	font-size: 20px;
+
+}
+#reset{
+	font-size: 20px;
+}
+#body{
+	background-color: brown;
+}
+#time{
+	color: white;
+}
